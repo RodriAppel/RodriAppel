@@ -10,3 +10,6 @@ Me encantan los deportes y el mundo blockchain
 Full Stack Developer | Back end | Front end | JavaScript | React | NodeJs  
 
 rodrigo.appel@hotmail.com
+https://www.linkedin.com/in/rodrigoappel/
+
+https://ra-lyriks-app.netlify.app/
